@@ -11,6 +11,8 @@ import foo.Robot;
  */
 public class App {
 	public static void main(String[] args) {
+		// dummy change
+		
 		ApplicationContext ac =
 			new ClassPathXmlApplicationContext("springcfg.xml");
 	
